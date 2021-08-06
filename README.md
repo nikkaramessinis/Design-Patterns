@@ -1,7 +1,7 @@
 # Design_Patterns
 
 Abstract Factory: Creational Design Pattern
-Lets you produce familier of related objects without specifying their concrete classes.
+Lets you produce families of related objects without specifying their concrete classes.
 
 Adapter: Structural design pattern 
 Allow objects with incmpatible interfaces to collaborate. 
